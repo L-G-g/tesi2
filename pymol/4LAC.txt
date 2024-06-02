@@ -1,0 +1,46 @@
+ You clicked /4LAC/A/B/ARG`148/NH1
+ Selector: selection "sele" defined with 1 atoms.
+ You clicked /4LAC/A/B/ARG`148/NH2
+ Selector: selection "sele" defined with 2 atoms.
+ You clicked /4LAC/A/B/ARG`148/NE
+ Selector: selection "sele" defined with 3 atoms.
+ You clicked /4LAC/A/B/ASP`150/OD2
+ Selector: selection "sele" defined with 4 atoms.
+ You clicked /4LAC/A/B/PRO`203/O
+ Selector: selection "sele" defined with 5 atoms.
+ You clicked /4LAC/A/B/GLY`205/N
+ Selector: selection "sele" defined with 6 atoms.
+ You clicked /4LAC/C/C/ARG`89/NH2
+ Selector: selection "sele" defined with 7 atoms.
+ You clicked /4LAC/A/B/ALA`204/O
+ Selector: selection "sele" defined with 8 atoms.
+ You clicked /4LAC/A/B/THR`153/N
+ Selector: selection "sele" defined with 9 atoms.
+ You clicked /4LAC/A/B/GLY`154/N
+ Selector: selection "sele" defined with 10 atoms.
+ You clicked /4LAC/A/B/THR`153/OG1
+ Selector: selection "sele" defined with 11 atoms.
+ You clicked /4LAC/A/B/PRO`304/O
+ Selector: selection "sele" defined with 12 atoms.
+ You clicked /4LAC/A/B/GLN`307/NE2
+ Selector: selection "sele" defined with 13 atoms.
+ You clicked /4LAC/C/C/ARG`214/O
+ Selector: selection "sele" defined with 14 atoms.
+ You clicked /4LAC/A/B/HIS`308/NE2
+ Selector: selection "sele" defined with 15 atoms.
+ You clicked /4LAC/C/C/ARG`214/NH1
+ Selector: selection "sele" defined with 16 atoms.
+ You clicked /4LAC/C/C/ASN`117/ND2
+ Selector: selection "sele" defined with 17 atoms.
+ You clicked /4LAC/C/C/HIS`241/ND1
+ Selector: selection "sele" defined with 18 atoms.
+ You clicked /4LAC/C/C/HIS`118/NE2
+ Selector: selection "sele" defined with 19 atoms.
+ You clicked /4LAC/C/C/HIS`59/NE2
+ Selector: selection "sele" defined with 20 atoms.
+ You clicked /4LAC/C/C/TYR`127/OH
+ Selector: selection "sele" defined with 21 atoms.
+ You clicked /4LAC/C/C/ASP`85/OD2
+ Selector: selection "sele" defined with 22 atoms.
+ You clicked /4LAC/C/C/ASN`117/OD1
+ Selector: selection "sele" defined with 23 atoms.

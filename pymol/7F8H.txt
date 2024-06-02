@@ -1,0 +1,12 @@
+ You clicked /7f8h/A/B/THR`278/O
+ Selector: selection "sele" defined with 1 atoms.
+ You clicked /7f8h/A/B/THR`278/OG1
+ Selector: selection "sele" defined with 2 atoms.
+ You clicked /7f8h/A/B/THR`421/OG1
+ Selector: selection "sele" defined with 3 atoms.
+ You clicked /7f8h/A/B/THR`421/O
+ Selector: selection "sele" defined with 4 atoms.
+ You clicked /7f8h/A/B/TRP`424/N
+ Selector: selection "sele" defined with 5 atoms.
+ You clicked /7f8h/A/B/LEU`425/N
+ Selector: selection "sele" defined with 6 atoms.

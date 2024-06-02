@@ -1,0 +1,10 @@
+ You clicked /5sym/A/A/GLY`77/O
+ Selector: selection "sele" defined with 1 atoms.
+ You clicked /5sym/A/A/ARG`149/HH11
+ Selector: selection "sele" defined with 2 atoms.
+ You clicked /5sym/A/A/ARG`149/NH1
+ Selector: selection "sele" defined with 3 atoms.
+ You clicked /5sym/A/A/ARG`149/NH2
+ Selector: selection "sele" defined with 4 atoms.
+ You clicked /5sym/A/A/LEU`146/O
+ Selector: selection "sele" defined with 5 atoms.

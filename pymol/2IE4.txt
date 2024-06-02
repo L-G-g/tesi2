@@ -1,0 +1,8 @@
+ You clicked /2IE4/B/C/ARG`89/NH2
+ Selector: selection "sele" defined with 1 atoms.
+ You clicked /2IE4/B/C/ARG`89/NE
+ Selector: selection "sele" defined with 2 atoms.
+ You clicked /2IE4/B/C/TYR`265/OH
+ Selector: selection "sele" defined with 3 atoms.
+ You clicked /2IE4/B/C/ARG`214/NH1
+ Selector: selection "sele" defined with 4 atoms.

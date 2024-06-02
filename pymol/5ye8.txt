@@ -1,0 +1,22 @@
+ You clicked /5ye8/C/B/8U3`501/C11
+ Selector: selection "sele" defined with 13 atoms.
+ You clicked /5ye8/A/B/LEU`295/CD1
+ Selector: selection "sele" defined with 2881 atoms.
+ You clicked /5ye8/A/B/GLN`352/OE1
+ Selector: selection "sele" defined with 1 atoms.
+ You clicked /5ye8/A/B/GLN`352/NE2
+ Selector: selection "sele" defined with 2 atoms.
+ You clicked /5ye8/A/B/HIS`272/ND1
+ Selector: selection "sele" defined with 3 atoms.
+ You clicked /5ye8/A/B/HIS`351/NE2
+ Selector: selection "sele" defined with 4 atoms.
+ You clicked /5ye8/A/B/SER`273/OG
+ Selector: selection "sele" defined with 5 atoms.
+ You clicked /5ye8/A/B/TYR`160/OH
+ Selector: selection "sele" defined with 6 atoms.
+ You clicked /5ye8/A/B/LEU`153/N
+ Selector: selection "sele" defined with 7 atoms.
+ You clicked /5ye8/A/B/LEU`153/O
+ Selector: selection "sele" defined with 8 atoms.
+ You clicked /5ye8/A/B/ALA`155/N
+ Selector: selection "sele" defined with 9 atoms.

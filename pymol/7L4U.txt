@@ -1,0 +1,14 @@
+ You clicked /7L4U/A/A/ALA`51/N
+ Selector: selection "sele" defined with 1 atoms.
+ You clicked /7L4U/A/A/MET`123/N
+ Selector: selection "sele" defined with 2 atoms.
+ You clicked /7L4U/A/A/SER`122/OG
+ Selector: selection "sele" defined with 3 atoms.
+ You clicked /7L4U/A/A/HIS`121/NE2
+ Selector: selection "sele" defined with 4 atoms.
+ You clicked /7L4U/A/A/GLU`53/OE1
+ Selector: selection "sele" defined with 5 atoms.
+ You clicked /7L4U/A/A/ARG`57/NE
+ Selector: selection "sele" defined with 6 atoms.
+ You clicked /7L4U/A/A/ARG`57/NH2
+ Selector: selection "sele" defined with 7 atoms.

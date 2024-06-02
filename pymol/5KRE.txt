@@ -1,0 +1,8 @@
+ You clicked /5KRE/A/A/SER`30/OG
+ Selector: selection "sele" defined with 1 atoms.
+ You clicked /5KRE/A/A/SER`30/N
+ Selector: selection "sele" defined with 2 atoms.
+ You clicked /5KRE/A/A/MET`125/N
+ Selector: selection "sele" defined with 3 atoms.
+ You clicked /5KRE/A/A/SER`124/OG
+ Selector: selection "sele" defined with 4 atoms.

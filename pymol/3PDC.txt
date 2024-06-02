@@ -1,0 +1,12 @@
+ You clicked /3pdc/A/A/TYR`381/OH
+ Selector: selection "sele" defined with 1 atoms.
+ You clicked /3pdc/A/A/GLN`382/OE1
+ Selector: selection "sele" defined with 2 atoms.
+ You clicked /3pdc/A/A/TYR`465/OH
+ Selector: selection "sele" defined with 3 atoms.
+ You clicked /3pdc/A/A/PHE`265/O
+ Selector: selection "sele" defined with 4 atoms.
+ You clicked /3pdc/A/A/ASP`333/OD1
+ Selector: selection "sele" defined with 5 atoms.
+ You clicked /3pdc/A/A/ASP`333/OD2
+ Selector: selection "sele" defined with 6 atoms.

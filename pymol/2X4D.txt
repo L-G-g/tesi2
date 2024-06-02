@@ -1,0 +1,10 @@
+ You clicked /2X4D/A/A/LYS`174/NZ
+ Selector: selection "sele" defined with 1 atoms.
+ You clicked /2X4D/A/A/GLU`177/OE1
+ Selector: selection "sele" defined with 2 atoms.
+ You clicked /2X4D/A/A/GLU`177/OE2
+ Selector: selection "sele" defined with 3 atoms.
+ You clicked /2X4D/A/A/ALA`184/N
+ Selector: selection "sele" defined with 4 atoms.
+ You clicked /2X4D/A/A/ALA`184/O
+ Selector: selection "sele" defined with 5 atoms.

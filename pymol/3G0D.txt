@@ -1,0 +1,16 @@
+ You clicked /3G0D/A/A/GLU`205/OE1
+ Selector: selection "sele" defined with 1 atoms.
+ You clicked /3G0D/A/A/GLU`205/O
+ Selector: selection "sele" defined with 2 atoms.
+ You clicked /3G0D/A/A/GLU`206/OE1
+ Selector: selection "sele" defined with 3 atoms.
+ You clicked /3G0D/A/A/GLU`206/OE2
+ Selector: selection "sele" defined with 4 atoms.
+ You clicked /3G0D/A/A/ASN`710/OD1
+ Selector: selection "sele" defined with 5 atoms.
+ You clicked /3G0D/A/A/ARG`125/NH2
+ Selector: selection "sele" defined with 6 atoms.
+ You clicked /3G0D/A/A/TYR`631/N
+ Selector: selection "sele" defined with 7 atoms.
+ You clicked /3G0D/A/A/TYR`547/OH
+ Selector: selection "sele" defined with 8 atoms.

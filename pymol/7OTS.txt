@@ -1,0 +1,6 @@
+ You clicked /7OTS/A/A/HIS`306/NE2
+ Selector: selection "sele" defined with 1 atoms.
+ You clicked /7OTS/A/A/PHE`80/N
+ Selector: selection "sele" defined with 2 atoms.
+ You clicked /7OTS/A/A/MET`149/N
+ Selector: selection "sele" defined with 3 atoms.
