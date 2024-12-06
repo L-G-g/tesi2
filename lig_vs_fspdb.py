@@ -14,7 +14,7 @@ def generate_random_name(length=3):
 def run_autodock_protocol(smiles, ligand_name, pdb_code):
     """Run the Autodock protocol with the given parameters."""
     try:
-        command = ["./generate_pdb_with_ref.sh", smiles, ligand_name, pdb_code]
+        command = ["./auto2dock.sh", smiles, ligand_name, pdb_code]
         subprocess.run(command, check=True)  # Add check=True to raise exception on non-zero exit code
     except subprocess.CalledProcessError as e:
         print(f"Error running Autodock protocol for PDB code {pdb_code}: {e}")

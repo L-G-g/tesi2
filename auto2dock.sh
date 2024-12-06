@@ -19,6 +19,8 @@ fi
 # Assign arguments to variables
 smiles="$1"
 docking_ligand_ID="$2"
+smiles_smi="${docking_ligand_ID}.smi"
+smiles_mol2="${docking_ligand_ID}.mol2"
 docking_ligand="${docking_ligand_ID}.pdb"
 docking_ligand_pdbqt="${docking_ligand_ID}.pdbqt"
 pdb_ID="$3"
@@ -26,9 +28,10 @@ receptor="${pdb_ID}.pdb"
 receptor_pdbqt="${receptor}qt"
 r_maps_fld="${pdb_ID}.maps.fld"
 
-# Creates the directory
+# Creates the directory and smi file
 mkdir -p ""$docking_ligand_ID"_"$pdb_ID""
 cd ""$docking_ligand_ID"_"$pdb_ID""
+echo "$smiles" > "$smiles_smi"
 
 # Downloading the PDB file
 wget -O "./$receptor" "https://files.rcsb.org/download/$receptor"
@@ -84,20 +87,17 @@ else
     warning_message=$(echo "$output_estructural_pdbqt" | grep "WARNING:")
     echo "$warning_message"
 fi
-
-# Run Open Babel command
-obabel -:"$smiles" -opdb --gen3d -O "$docking_ligand" &> /dev/null
+# Run the Open Babel smi -> mol2 -> pdbqt transformation.
+obabel -ismi "./$smiles_smi" -omol2 -O "./$smiles_mol2" --gen3d --minimize --steps 1500 --sd -h --ff UFF 
 
 # Check if the conversion was successful
 if [ $? -eq 0 ]; then
-    echo "New ligand pdb conversion successful. Output saved to $docking_ligand."
+    echo "New ligand smi -> mol2 conversion successful. Output saved to $smiles_mol2"
 else
-    echo "Error during conversion. Please check the SMILES docking ligand and try again."
+    echo "Error during docking ligand pdbqt transformation. Please check and try again."
 fi
 
-# Run the pdbqt transformation for the docking ligand
-pythonsh /home/gabi/tools/mgltools_x86_64Linux2_1.5.7/MGLToolsPckgs/AutoDockTools/Utilities24/prepare_ligand4.py -l "$docking_ligand" -o "$docking_ligand_pdbqt" 
-
+obabel "./$smiles_mol2" -O "./$docking_ligand_pdbqt" -h 
 # Check if the conversion was successful
 if [ $? -eq 0 ]; then
     echo "New ligand pdbqt conversion successful. Output saved to $docking_ligand_pdbqt"
@@ -193,4 +193,4 @@ else
 fi
 
 # Run the
-autodock_gpu_64wi -ffile $r_maps_fld -lfile ligando_dock.pdbqt -nrun 100 -gfpop
+autodock_gpu_64wi -ffile $r_maps_fld -lfile ligando_dock.pdbqt -nrun 100 -gfpop 1 -npdb -clustering

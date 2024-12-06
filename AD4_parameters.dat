@@ -1,0 +1,8 @@
+atom_par Na 3.98 0.030 12.000 -0.00110 0.0 0.0 0 -1 -1 4 # Non H-bonding
+atom_par Se 4.21 0.291 14.000 -0.00110 0.0 0.0 0 -1 -1 4 # Non H-bonding
+atom_par Sr 3.64 0.235 12.000 -0.00110 0.0 0.0 0 -1 -1 4 # Non H-bonding
+atom_par Y 3.35 0.072 12.000 -0.00110 0.0 0.0 0 -1 -1 4 # Non H-bonding
+atom_par Zr 3.12 0.069 12.000 -0.00110 0.0 0.0 0 -1 -1 4 # Non H-bonding
+atom_par Nb 3.17 0.059 12.000 -0.00110 0.0 0.0 0 -1 -1 4 # Non H-bonding
+atom_par Mo 3.05 0.056 12.000 -0.00110 0.0 0.0 0 -1 -1 4 # Non H-bonding
+atom_par K 3.81 0.035 12.000 -0.00110 0.0 0.0 0 -1 -1 4 # Non H-bonding
